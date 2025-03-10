@@ -2,8 +2,13 @@
 
 This project presents a supervised learning approach using the **Capital Bikeshare** dataset for predictive modeling and model evaluation. It covers the application of regression, classification, and model validation techniques through a structured data science pipeline.
 
-## 📂 Dataset
-The dataset used in this project comes from [Capital Bikeshare System Data](https://ride.capitalbikeshare.com/system-data), specifically focusing on trip data from March and October 2024.
+## 📁 Dataset Information
+
+The dataset used in this project (`Data.zip`) contains Capital Bikeshare trip data for the months of February, March, and April 2024. Due to file size constraints, it is not uploaded to this repository.
+
+🔗 **Download Dataset:** [Click here to access the dataset on Google Drive]([https://ride.capitalbikeshare.com/system-data](https://drive.google.com/drive/u/2/folders/174NY1K1BwPbKH00253POWrBfH2U-k1M6))
+
+> Please ensure the file remains in the same folder structure when extracted, as used in the notebook for smooth execution.
 
 ## 🧠 Problem Statement
 The objective is to explore and model bike-sharing patterns using:
